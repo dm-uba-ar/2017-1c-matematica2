@@ -1,8 +1,4 @@
-# Matemática 2 (Complementos de Matemática 3 para Física) — Primer cuatrimestre de 2017
-
-## Equipo docente
-
-- **Clases teóricas:** Daniel Carando
+# Matemática 2 — Primer cuatrimestre de 2017
 
 ## Prácticas
 
@@ -20,16 +16,6 @@
 - [Clase 4 - Bases y dimension, suma directa, teorema de la dimension de subespacios](AL-2do2012-t04.PDF)
 - [Clase 5 - Bases y coordenadas. Transformaciones lineales, nucleo e imagen](AL-2do2012-t05.PDF)
 - [Notas sobre suma e intersección de subespacios, suma directa y coordenadas](sumaeinterseccion.pdf)
-
-## Bibliografía
-
-- Friedberg S., Insel A., Spence L.: Algebra Lineal. Publicaciones Cultural S.A., 1982.
-- Grossman S.: Algebra Lineal. Quinta Edición, Mc Graw Hill, 1996.
-- Jeronimo G, Sabia J., Tesauri S.: Notas de álgebra lineal.
-- Strang G.: Algebra Lineal y sus aplicaciones. Fondo Educativo Interamericano S.A., 1982, o Addison-Wesley Iberoamerica, 1986.
-- Lipschutz S.: Álgebra Lineal, Serie Schaum, Mc Graw-Hill, 1992.
-- Hoffman K., Kunze R.: Álgebra Lineal, Prentice Hall, 1973.
-- Lang S.: Álgebra Lineal, Fondo Educativo Interamericano S.A., 1982.
 
 ## Página original
 
